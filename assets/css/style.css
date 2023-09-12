@@ -65,14 +65,14 @@ color: white;
 .content{
     width: 75%;
     right: 0;
-    margin-top: 250px;
+    margin-top: 150px;
     text-align: left;
     margin-left: 300px;
     height:40vh;
 }
 .content h1{
     font-size: 32px;
-    margin-left: -300px;
+    margin-left: -315px;
     height: 100px;
     margin-bottom: 100px;
 }
@@ -84,6 +84,7 @@ color: white;
     padding: 0;
     height: 200px;
     margin-bottom: 50px;
+    text-align: justify;
 }
 .paragraph1{
     margin-top: -200px;
@@ -92,20 +93,23 @@ color: white;
     background-color: antiquewhite;
     width: 25%;
     left: 0;
-    margin-top: -250px;
+    margin-top: -150px;
     height: 300px;
 }
 .side-content p{
     padding: 70px 20px;
+    text-align: justify;
+    
 }
 .footer{
     width: 100%;
     background-color: rgb(255, 99, 64);
     height: 100px;
+    margin-top: 0px;
 }
 .footer p{
     color: antiquewhite;
     text-align: center;
     font-size: 22px;
-    padding-top: 10px;
+    padding-top: 30px;
 }
